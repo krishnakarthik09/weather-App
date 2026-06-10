@@ -76,5 +76,6 @@ weather-app/
 ## Author
 
 Krishna Karthik
-B.Tech Final Year Student
+
+
 Python Developer
